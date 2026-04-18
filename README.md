@@ -22,7 +22,6 @@ dhruv = {
     "backend"    : ["FastAPI", "Node.js", "REST APIs", "PostgreSQL", "Docker", "AWS Lambda"],
     "frontend"   : ["Vue.js", "JavaScript", "Streamlit"],
     "shipped"    : "CallInsight AI — RAG + LLM platform, 40% faster insight turnaround [PROD]",
-    "building"   : "MedScribe — clinical OCR & vital sign verification on Azure + AWS",
     "fun_fact"   : "I fine-tune Whisper, ship FastAPI services, and push to prod same day 🚀",
 }
 ```
