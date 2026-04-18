@@ -1,121 +1,114 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hey+%F0%9F%91%8B+I'm+Dhruv+Diwakirti;AI+SWE+%7C+Backend+%7C+LLM+Systems+%7C+Voice+AI" alt="Typing SVG" />
+```
+██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
+██║  ██║███████║██████╔╝██║   ██║██║   ██║
+██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝
+██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝ 
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%24+whoami+--+AI+SWE+%7C+Backend+%7C+LLM+Systems+%7C+Voice+AI;%24+status+--+Building+in+prod.+Shipping+daily." alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvdiwa/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv-kys)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loltreat1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/~/linkedin-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/dhruvdiwa/)
+[![GitHub](https://img.shields.io/badge/~/github-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Dhruv-kys)
+[![Gmail](https://img.shields.io/badge/~/mail-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:loltreat1@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+```bash
+$ cat /etc/dhruv/profile.json
+```
 
-```python
-dhruv = {
-    "role"       : "AI Developer Intern @ Cubical Frames",
-    "education"  : "B.Tech CS — JSS Academy of Technical Education, Noida (2027)",
-    "focus"      : ["LLM Systems", "RAG Pipelines", "Voice AI", "Backend APIs", "Full-Stack AI Apps"],
-    "backend"    : ["FastAPI", "Node.js", "REST APIs", "PostgreSQL", "Docker", "AWS Lambda","MongoDB"],
-    "frontend"   : ["Vue.js", "JavaScript", "Streamlit"],
-    "currently"  : "Backend System with LLM Memory optimization",
-    "fun_fact"   : "I fine-tune Whisper, ship FastAPI services, and push to prod same day 🚀",
+```json
+{
+  "name"       : "Dhruv Diwakirti",
+  "role"       : "AI Developer Intern @ Cubical Frames",
+  "education"  : "B.Tech CS — JSS Academy, Noida [2027]",
+  "stack"      : ["LLM Systems", "RAG", "Voice AI", "FastAPI", "Node.js", "Vue.js"],
+  "backend"    : ["FastAPI", "Node.js", "REST APIs", "PostgreSQL", "Docker", "AWS Lambda"],
+  "frontend"   : ["Vue.js", "JavaScript", "Streamlit"],
+  "shipped"    : "CallInsight AI — 40% faster insight turnaround, 18% WER reduction [PROD]",
+  "current"    : "Backend Systems + Agents Memory Optimization",
+  "status"     : "open_to_opportunities"
 }
 ```
 
 ---
 
-## 🚀 Featured Projects
+```bash
+$ ls -la ~/projects
+```
 
-| Project | What it does | Stack |
-|---|---|---|
-| 📞 **CallInsight AI** | Production call analytics platform with RAG — 40% faster insight turnaround, 18% WER reduction | Azure AI · LangChain · Whisper v3 · RAG · AWS |
-| 🎙️ **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)** | Real-time AI voice interview agent — VAD → ASR → NLU → LLM → TTS, sub-2s latency | ElevenLabs · PyTorch · TensorFlow · FastAPI |
-| 🏥 **MedScribe** | Clinical OCR & verification system — validates 9 vital sign types with GPT-4 Vision | Azure OpenAI · GPT-4V · Python · AWS EC2 |
-| 🤖 **[LangChain Agent Chatbot](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)** | Agentic chatbot with web/PDF/arXiv search + Chroma RAG | LangChain · Groq · HuggingFace · Chroma |
-| 💸 **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)** | MCP expense tracker with ETL, FastAPI, and serverless AWS deployment | FastAPI · PostgreSQL · Docker · AWS Lambda |
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+| `drwxr` | Project | Description | Stack |
+|---|---|---|---|
+| `📞` | **CallInsight AI** | Call analytics platform — RAG pipeline, 40% faster insight turnaround, 18% WER cut | Azure AI · Whisper v3 · LangChain · AWS |
+| `🎙️` | **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)** | Voice interview agent — VAD → ASR → NLU → LLM → TTS at sub-2s latency | ElevenLabs · PyTorch · TensorFlow · FastAPI |
+| `🏥` | **MedScribe** | Clinical OCR — validates 9 vital sign types with GPT-4 Vision, digit-level BP verification | Azure OpenAI · GPT-4V · FastAPI · AWS EC2 |
+| `🤖` | **[LangChain Agent Chatbot](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)** | Agentic chatbot — web/PDF/arXiv search, Chroma RAG, streaming responses | LangChain · Groq · HuggingFace · Chroma |
+| `💸` | **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)** | MCP expense tracker — ETL pipelines, FastAPI, serverless AWS deployment | FastAPI · PostgreSQL · Docker · Lambda |
 
 ---
 
-## 📊 GitHub Stats
+```bash
+$ cat ~/skills/stack.sh
+```
+
+```bash
+# ── LANGUAGES ──────────────────────────────────────────────────
+LANGS=(Python JavaScript SQL C++)
+
+# ── BACKEND & APIs ─────────────────────────────────────────────
+BACKEND=(FastAPI Node.js Flask Django "REST APIs" WebSockets Pydantic)
+
+# ── FRONTEND ───────────────────────────────────────────────────
+FRONTEND=(Vue.js JavaScript Streamlit)
+
+# ── AI / ML ────────────────────────────────────────────────────
+AI_ML=(LangChain PyTorch TensorFlow HuggingFace "Whisper v3" "Scikit-learn" RAG "Prompt Engineering")
+
+# ── CLOUD & DEVOPS ─────────────────────────────────────────────
+CLOUD=(AWS Azure GCP Docker "GitHub Actions" Lambda S3 EC2)
+
+# ── DATABASES ──────────────────────────────────────────────────
+DB=(PostgreSQL MongoDB ChromaDB pgvector)
+```
+
+---
+
+```bash
+$ cat ~/metrics/impact.log
+```
+
+```
+[✓] WER        -18%   multilingual ASR pipeline (EN + HI) via Whisper v3 Large fine-tuning
+[✓] LATENCY    <2s    end-to-end voice pipeline: VAD → ASR → NLU → LLM → TTS
+[✓] TURNAROUND -40%   call insight generation using RAG + prompt-engineered LLM pipeline
+[✓] CI/CD      3x     GitHub Actions on GCP — deploy time: 25 min → <8 min
+[✓] OCR        9/9    vital sign types validated with GPT-4 Vision in MedScribe
+```
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhruv-kys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-kys&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv-kys&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv-kys&theme=matrix&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 What I've Shipped
-
-- 🔻 **18% WER reduction** — multilingual ASR pipeline (English + Hindi) via Whisper v3 Large fine-tuning
-- ⚡ **40% faster** call insight turnaround using RAG + prompt-engineered LLM pipelines
-- 🚀 **3× faster CI/CD** — GitHub Actions on GCP cut deploy time from 25 min → under 8 min
-- 🩺 **9 vital sign types** validated with GPT-4 Vision in MedScribe's clinical OCR engine
-
----
-
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Dhruv-kys&color=00d9ff&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Dhruv-kys&color=00FF41&style=flat-square&label=visitors)
 
-*"Build fast. Ship to prod. Measure everything."*
+```
+> "Ship fast. Measure everything. Break nothing in prod."_
+```
 
 </div>
