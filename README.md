@@ -1,6 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=140&section=header&text=Dhruv%20Diwakirti&fontSize=46&fontColor=0a0a0a&fontAlignY=42&desc=AI%20SWE%20%7C%20Backend%20%7C%20LLM%20Systems%20%7C%20Voice%20AI&descSize=16&descAlignY=65&descFontColor=0a0a0a&animation=fadeIn" />
-
 <div align="center">
+
+```
+██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
+██║  ██║███████║██████╔╝██║   ██║██║   ██║
+██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝
+██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=680&height=50&lines=%24+whoami+%E2%86%92+building+LLM+systems+%2B+voice+AI+%2B+backend+APIs+in+prod;%24+uptime+%E2%86%92+shipping+daily+%7C+open+to+opportunities" alt="Typing SVG" />
 
@@ -188,5 +195,3 @@ $ echo $QUOTE
 ![visitors](https://komarev.com/ghpvc/?username=Dhruv-kys&color=00FF41&style=flat-square&label=visitors)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
