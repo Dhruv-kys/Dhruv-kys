@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Dhruv+Diwakirti" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=99999&color=00FF41&center=true&vCenter=true&width=500&height=60&lines=Dhruv+Diwakirti" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&multiline=true&width=680&height=50&lines=%24+whoami+%E2%86%92+AI+SWE+%7C+Backend+%7C+LLM+Systems+%7C+Voice+AI;%24+status+%E2%86%92+open+to+opportunities+%7C+shipping+daily" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=AAAAAA&center=true&vCenter=true&multiline=true&width=620&height=48&lines=AI+Engineer+%E2%80%A2+Backend+%E2%80%A2+LLM+Systems+%E2%80%A2+Voice+AI;B.Tech+CS+%40+JSS+Noida+%7C+Intern+%40+Cubical+Frames+%7C+Open+to+Opportunities" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/dhruvdiwa/)
-[![GitHub](https://img.shields.io/badge/github-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Dhruv-kys)
-[![Mail](https://img.shields.io/badge/mail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:loltreat1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/dhruvdiwa/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/Dhruv-kys)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/loltreat1%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:loltreat1@gmail.com)
 
 </div>
 
@@ -16,32 +18,30 @@
 
 ---
 
+<br/>
+
 ```bash
-$ cat /etc/dhruv/profile.conf
+$ cat ~/about.conf
 ```
 
 ```ini
-[identity]
-name        = Dhruv Diwakirti
-role        = AI Developer Intern @ Cubical Frames
-education   = B.Tech Computer Science — JSS Academy, Noida [2027]
-
 [focus]
-primary     = LLM Systems · RAG Pipelines · Voice AI · Agentic Backends
-secondary   = FastAPI · Node.js · Vue.js · REST APIs · Cloud Infra
+primary    =  LLM Systems · RAG Pipelines · Voice AI · Agentic Backends
+secondary  =  FastAPI · Node.js · Vue.js · REST APIs · Cloud Infra
 
-[latest]
-shipped     = CallInsight AI  →  RAG + LLM call analytics, -40% insight turnaround [PROD]
-building    = Backend systems + agent memory optimization
+[shipped]
+prod       =  CallInsight AI  →  40% faster insight turnaround, 18% WER reduction
+wip        =  MedScribe · Agent memory optimization
 
 [system]
-status      = online
-mode        = open_to_opportunities
+status     =  online  |  open_to_opportunities
 ```
 
-<br/>
+<br/><br/>
 
 ---
+
+<br/>
 
 ```bash
 $ ls ~/projects --sort=impact
@@ -51,13 +51,13 @@ $ ls ~/projects --sort=impact
 
 <div align="center">
 
-| | Project | TL;DR | Stack |
-|:--:|---|---|---|
-| 📞 | **CallInsight AI** | Production call analytics — RAG pipeline cut insight turnaround **40%**, WER **−18%** | `Azure AI` `Whisper v3` `LangChain` `RAG` `AWS` |
-| 🎙️ | **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)** | Real-time voice interview agent — VAD → ASR → NLU → LLM → TTS at **<2s latency** | `ElevenLabs` `PyTorch` `TensorFlow` `FastAPI` |
-| 🏥 | **MedScribe** | Clinical OCR — **9 vital signs** validated w/ GPT-4 Vision, digit-level BP verification | `Azure OpenAI` `GPT-4V` `FastAPI` `AWS EC2` |
-| 🤖 | **[LangChain Agent](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)** | Agentic chatbot — web/PDF/arXiv search, Chroma RAG, streaming responses | `LangChain` `Groq` `HuggingFace` `ChromaDB` |
-| 💸 | **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)** | MCP expense tracker — ETL pipelines, REST API, serverless AWS deployment | `FastAPI` `PostgreSQL` `Docker` `Lambda` |
+| &nbsp; | Project | What it does | Stack |
+|:---:|:---|:---|:---|
+| 📞 | **CallInsight AI** | Call analytics platform — RAG pipeline, **40% faster** insight turnaround, **−18% WER** | `Azure AI` `Whisper v3` `LangChain` `AWS` |
+| 🎙️ | **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)** | Real-time voice interview agent — VAD → ASR → NLU → LLM → TTS at **< 2s latency** | `ElevenLabs` `PyTorch` `TensorFlow` `FastAPI` |
+| 🏥 | **MedScribe** | Clinical OCR — **9 vital sign types** validated w/ GPT-4 Vision, digit-level BP verification | `Azure OpenAI` `GPT-4V` `FastAPI` `AWS EC2` |
+| 🤖 | **[LangChain Agent](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)** | Agentic chatbot — web / PDF / arXiv search, Chroma RAG, streaming | `LangChain` `Groq` `HuggingFace` `Chroma` |
+| 💸 | **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)** | MCP expense tracker — ETL, FastAPI, serverless AWS deploy | `FastAPI` `PostgreSQL` `Docker` `Lambda` |
 
 </div>
 
@@ -65,101 +65,101 @@ $ ls ~/projects --sort=impact
 
 ---
 
+<br/>
+
 ```bash
-$ source ~/skills/stack.env && printenv
+$ cat ~/stack.sh
 ```
 
 <br/>
 
-<div align="center">
+<table align="center" border="0">
+<tr>
+<td valign="top" width="50%">
 
-**`LANGUAGES`**&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=00FF41)
+**Languages**
+```
+Python · JavaScript · SQL · C++
+```
 
-<br/>
+**Backend & APIs**
+```
+FastAPI · Node.js · Flask · Django
+WebSockets · REST APIs · Pydantic
+```
 
-**`BACKEND`**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=00FF41)
-![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=00FF41)
-![Django](https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=00FF41)
-![WebSockets](https://img.shields.io/badge/WebSockets-0a0a0a?style=flat-square&logo=socket.io&logoColor=00FF41)
-![REST](https://img.shields.io/badge/REST_APIs-0a0a0a?style=flat-square&logo=postman&logoColor=00FF41)
+**Frontend**
+```
+Vue.js · Streamlit
+```
 
-<br/>
+</td>
+<td valign="top" width="50%">
 
-**`FRONTEND`**&nbsp;&nbsp;&nbsp;&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-0a0a0a?style=flat-square&logo=vue.js&logoColor=00FF41)
-![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0a?style=flat-square&logo=streamlit&logoColor=00FF41)
+**AI / ML**
+```
+LangChain · PyTorch · TensorFlow
+HuggingFace · Whisper v3 · Scikit-learn
+RAG · Prompt Engineering
+```
 
-<br/>
+**Cloud & DevOps**
+```
+AWS · Azure · GCP · Docker
+GitHub Actions · Lambda · S3 · EC2
+```
 
-**`AI / ML`**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=langchain&logoColor=00FF41)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=00FF41)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=00FF41)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0a?style=flat-square&logo=huggingface&logoColor=00FF41)
-![Whisper](https://img.shields.io/badge/Whisper_v3-0a0a0a?style=flat-square&logo=openai&logoColor=00FF41)
-![Scikit](https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikit-learn&logoColor=00FF41)
+**Databases**
+```
+PostgreSQL · MongoDB · ChromaDB · pgvector
+```
 
-<br/>
-
-**`CLOUD`**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazon-aws&logoColor=00FF41)
-![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=flat-square&logo=microsoft-azure&logoColor=00FF41)
-![GCP](https://img.shields.io/badge/GCP-0a0a0a?style=flat-square&logo=google-cloud&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00FF41)
-![GH Actions](https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=flat-square&logo=github-actions&logoColor=00FF41)
-
-<br/>
-
-**`DATABASES`**&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0a0a0a?style=flat-square&logo=databricks&logoColor=00FF41)
-![pgvector](https://img.shields.io/badge/pgvector-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41)
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
+
+<br/>
 
 ```bash
 $ tail -f ~/metrics/impact.log
 ```
 
 ```
-[✓] TURNAROUND  -40%   RAG + prompt-engineered LLM pipeline → CallInsight AI [PROD]
-[✓] WER         -18%   multilingual ASR (EN + HI) → Whisper v3 Large fine-tuned on PyTorch
-[✓] LATENCY     <2s    full voice loop: VAD → ASR → NLU → LLM → TTS → HireSense AI
-[✓] CI/CD        3×    GitHub Actions on GCP: 25 min → <8 min, zero manual errors
-[✓] OCR          9/9   vital sign types validated w/ GPT-4 Vision → MedScribe
-[✓] AUTH         ✔     Google OAuth2 inside AWS Lambda — tokens persisted to S3
+[✓] TURNAROUND   -40%   RAG + LLM pipeline  →  CallInsight AI [PROD]
+[✓] WER          -18%   multilingual ASR (EN + HI)  →  Whisper v3 Large, fine-tuned on PyTorch
+[✓] LATENCY      <2s    VAD → ASR → NLU → LLM → TTS  →  HireSense AI
+[✓] CI/CD         3×    GitHub Actions on GCP: 25 min → <8 min, zero manual errors
+[✓] OCR           9/9   vital sign types validated w/ GPT-4 Vision  →  MedScribe
+[✓] AUTH          ✔     Google OAuth2 in AWS Lambda, tokens persisted to S3
 ```
 
 <br/>
 
 ---
 
+<br/>
+
 ```bash
-$ git log --oneline --graph
+$ git log --graph --oneline
 ```
 
 <br/>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=matrix&hide_border=true&area=true)](https://github.com/Dhruv-kys)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=matrix&hide_border=true&area=true&point=00FF41&line=00FF41&area_color=00FF4120)](https://github.com/Dhruv-kys)
 
 </div>
 
 <br/>
 
 ---
+
+<br/>
 
 ```bash
 $ cat ~/contributions/snake.svg
@@ -169,49 +169,22 @@ $ cat ~/contributions/snake.svg
 
 <div align="center">
 
-<!-- 
-  ⚡ SETUP REQUIRED — Snake Contribution Animation
-  1. Go to your repo Settings → Actions → General → enable "Read and write permissions"
-  2. Create file: .github/workflows/snake.yml with this content:
-
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    snake:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Dhruv-kys
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv-kys&theme=matrix&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=Dhruv-kys&theme=matrix&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<br/><br/>
+
+![visitors](https://komarev.com/ghpvc/?username=Dhruv-kys&color=00FF41&style=flat-square&label=profile+views)
 
 <br/>
 
-![visitors](https://komarev.com/ghpvc/?username=Dhruv-kys&color=00FF41&style=flat-square&label=visitors)
-
-<br/>
-
-*`> "Ship fast. Measure everything. Break nothing in prod." _`*
+<sub><i>ship fast · measure everything · break nothing in prod</i></sub>
 
 </div>
