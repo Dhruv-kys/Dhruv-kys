@@ -1,15 +1,8 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
-██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
-██║  ██║███████║██████╔╝██║   ██║██║   ██║
-██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝
-██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Dhruv+Diwakirti" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=680&height=50&lines=%24+whoami+%E2%86%92+building+LLM+systems+%2B+voice+AI+%2B+backend+APIs+in+prod;%24+uptime+%E2%86%92+shipping+daily+%7C+open+to+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&multiline=true&width=680&height=50&lines=%24+whoami+%E2%86%92+AI+SWE+%7C+Backend+%7C+LLM+Systems+%7C+Voice+AI;%24+status+%E2%86%92+open+to+opportunities+%7C+shipping+daily" alt="Subtitle" />
 
 <br/>
 
@@ -20,6 +13,8 @@
 </div>
 
 <br/>
+
+---
 
 ```bash
 $ cat /etc/dhruv/profile.conf
@@ -48,8 +43,6 @@ mode        = open_to_opportunities
 
 ---
 
-<br/>
-
 ```bash
 $ ls ~/projects --sort=impact
 ```
@@ -71,8 +64,6 @@ $ ls ~/projects --sort=impact
 <br/>
 
 ---
-
-<br/>
 
 ```bash
 $ source ~/skills/stack.env && printenv
@@ -137,8 +128,6 @@ $ source ~/skills/stack.env && printenv
 
 ---
 
-<br/>
-
 ```bash
 $ tail -f ~/metrics/impact.log
 ```
@@ -156,21 +145,15 @@ $ tail -f ~/metrics/impact.log
 
 ---
 
-<br/>
-
 ```bash
-$ git log --oneline --graph --all
+$ git log --oneline --graph
 ```
 
 <br/>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=matrix&hide_border=true&area=true&area_color=00FF41)](https://github.com/Dhruv-kys)
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv-kys&theme=matrix&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=matrix&hide_border=true&area=true)](https://github.com/Dhruv-kys)
 
 </div>
 
@@ -178,20 +161,57 @@ $ git log --oneline --graph --all
 
 ---
 
-<br/>
-
 ```bash
-$ echo $QUOTE
+$ cat ~/contributions/snake.svg
 ```
+
+<br/>
 
 <div align="center">
 
-```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║   "Ship fast. Measure everything. Break nothing in prod."       ║
-  ╚══════════════════════════════════════════════════════════════════╝
-```
+<!-- 
+  ⚡ SETUP REQUIRED — Snake Contribution Animation
+  1. Go to your repo Settings → Actions → General → enable "Read and write permissions"
+  2. Create file: .github/workflows/snake.yml with this content:
+
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 0 * * *" }]
+    workflow_dispatch:
+  jobs:
+    snake:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Dhruv-kys
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv-kys&theme=matrix&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<br/>
 
 ![visitors](https://komarev.com/ghpvc/?username=Dhruv-kys&color=00FF41&style=flat-square&label=visitors)
+
+<br/>
+
+*`> "Ship fast. Measure everything. Break nothing in prod." _`*
 
 </div>
