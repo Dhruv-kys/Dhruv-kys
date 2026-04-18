@@ -17,12 +17,11 @@
 ```python
 dhruv = {
     "role"       : "AI Developer Intern @ Cubical Frames",
-    "education"  : "B.Tech CS — JSS Academy of Technical Education, Noida (2027)",
+    "education"  : "B.Tech CSE — JSS Academy of Technical Education, Noida (2027)",
     "focus"      : ["LLM Systems", "RAG Pipelines", "Voice AI", "Backend APIs", "Full-Stack AI Apps"],
     "backend"    : ["FastAPI", "Node.js", "REST APIs", "PostgreSQL", "Docker", "AWS Lambda"],
     "frontend"   : ["Vue.js", "JavaScript", "Streamlit"],
     "shipped"    : "CallInsight AI — RAG + LLM platform, 40% faster insight turnaround [PROD]",
-    "building"   : "MedScribe — clinical OCR & vital sign verification on Azure + AWS",
     "fun_fact"   : "I fine-tune Whisper, ship FastAPI services, and push to prod same day 🚀",
 }
 ```
