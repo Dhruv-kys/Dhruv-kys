@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Hey+%F0%9F%91%8B+I'm+Dhruv+Diwakirti;AI+Engineer+%7C+Voice+AI+%7C+LLM+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hey+%F0%9F%91%8B+I'm+Dhruv+Diwakirti;AI+SWE+%7C+Backend+%7C+LLM+Systems+%7C+Voice+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -18,10 +18,11 @@
 dhruv = {
     "role"       : "AI Developer Intern @ Cubical Frames",
     "education"  : "B.Tech CS — JSS Academy of Technical Education, Noida (2027)",
-    "focus"      : ["LLM Orchestration", "RAG Pipelines", "Voice AI", "Agentic Systems"],
-    "shipped"    : "CallInsight AI — cut insight turnaround time by 40% in production",
-    "currently"  : "MedScribe — AI-powered clinical OCR & vital sign verification on Azure + AWS",
-    "fun_fact"   : "I fine-tune Whisper, build voice pipelines, and deploy them to prod 🎙️",
+    "focus"      : ["LLM Systems", "RAG Pipelines", "Voice AI", "Backend APIs", "Full-Stack AI Apps"],
+    "backend"    : ["FastAPI", "Node.js", "REST APIs", "PostgreSQL", "Docker", "AWS Lambda","MongoDB"],
+    "frontend"   : ["Vue.js", "JavaScript", "Streamlit"],
+    "currently"  : "Backend System with LLM Memory optimization",
+    "fun_fact"   : "I fine-tune Whisper, ship FastAPI services, and push to prod same day 🚀",
 }
 ```
 
@@ -44,9 +45,22 @@ dhruv = {
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **AI / ML**
 
@@ -55,13 +69,6 @@ dhruv = {
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Frameworks**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **Cloud & DevOps**
 
