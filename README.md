@@ -1,6 +1,11 @@
 <!-- 🔥 MARVEL-STYLE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:111111,70:ff0000,100:000000&height=260&section=header&text=Dhruv%20Diwakirti&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=AI%20SDE%20%7C%20Engineering%20Intelligent%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
+<!-- 🦾 MARVEL HERO GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="300"/>
+</p>
+
 <!-- ⚡ HERO TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+System+Builder;LLMs+%7C+RAG+%7C+Agents;Real-Time+AI+Pipelines;Build+Like+Iron+Man+⚡" />
@@ -33,54 +38,78 @@ abilities:
   - engineer real-time AI pipelines
   - design backend systems for intelligence
   - deploy scalable AI infra
-
-mission:
-  - turn ideas → working AI systems
-  - optimize latency, not just prompts
 ```
 
 ---
 
 ## ⚙️ POWER SET
 
-- ⚡ **Real-time pipelines** (stream → infer → respond)
-- 🧠 **RAG systems** (retrieval → ranking → grounding)
-- 🤖 **Agents** (tools + memory + reasoning)
-- 🏗️ **Backend systems** (FastAPI, async APIs)
-- ☁️ **Cloud AI infra** (AWS Bedrock, serverless)
+- ⚡ Real-time pipelines (stream → infer → respond)
+- 🧠 RAG systems (retrieval → ranking → grounding)
+- 🤖 Agents (tools + memory + orchestration)
+- 🏗️ Backend systems (FastAPI, async APIs)
+- ☁️ Cloud AI infra (AWS Bedrock, serverless)
 
 ---
 
-## 🧰 SUIT TECH (STACK)
+## 🧰 SUIT TECH
+
+### ⚡ AI / ML
+`LangChain` · `HuggingFace` · `Groq` · `Embeddings` · `RAG Pipelines`
+
+### 🏗️ Backend
+`FastAPI` · `Async APIs` · `REST` · `Streaming`
+
+### ☁️ Infra
+`AWS Bedrock` · `Lambda` · `S3` · `Docker`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,linux,git&theme=dark" />
 </p>
 
-```
-AI        → LangChain · HuggingFace · Embeddings · RAG
-Backend   → FastAPI · Async · APIs
-Infra     → AWS · Docker · Serverless
-```
-
 ---
 
 ## 🚀 MISSIONS (PROJECTS)
 
-### 🤖 AI Interview Agent
-real-time **speech → LLM → adaptive response** system  
+### 🤖 [AI Interview Agent (HireSense AI)](https://github.com/Dhruv-kys/HireSense_AI)
+- Real-time **speech → text → LLM reasoning → response**
+- Streaming pipeline with low latency
+- Built for structured evaluation + feedback  
+**Tech:** `FastAPI` · `Streaming` · `LLMs`
 
-### 🔗 LangChain Agent
-multi-tool reasoning system (web + pdf + search)  
+---
 
-### 💸 ExpenseMCP
-context-aware financial intelligence system  
+### 🔗 [LangChain Agent Chatbot](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)
+- Multi-tool AI agent (Web + Wikipedia + arXiv + PDF Q&A)
+- Dynamic reasoning with tool orchestration  
+**Tech:** `LangChain` · `Groq` · `RAG`
 
-### ☁️ Bedrock Generator
-serverless GenAI pipeline (Lambda + S3)  
+---
 
-### 🧮 MathsGPT
-structured reasoning AI assistant  
+### 💸 [ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)
+- MCP-based expense tracking system
+- Generates intelligent insights from structured data  
+**Tech:** `Python` · `JSON Store` · `MCP`
+
+---
+
+### ☁️ [AWS Bedrock Blog Generator](https://github.com/Dhruv-kys/Aws-Bedrock-Blog-Generator)
+- Serverless blog generator using LLMs
+- Fully automated pipeline (Lambda + S3)  
+**Tech:** `AWS Bedrock` · `Lambda` · `S3`
+
+---
+
+### 🧮 [MathsGPT Assistant](https://github.com/Dhruv-kys/MathsGPT-Assistant)
+- AI assistant for solving math + reasoning problems  
+**Tech:** `LLMs` · `Prompt Engineering`
+
+---
+
+### 📖 [Next Word Prediction](https://github.com/Dhruv-kys/Next-Word_Prediction)
+- LSTM model trained on Shakespeare
+- Sequence modeling for text generation  
+**Tech:** `PyTorch` · `NLP`
 
 ---
 
@@ -96,14 +125,6 @@ structured reasoning AI assistant
 ## 📈 ACTIVITY ARC
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=github-dark&hide_border=true&bg_color=000000&color=ff0000&line=ff0000&point=ffffff" width="100%"/>
-
----
-
-## 🧠 CURRENT ARC
-
-- ⚡ Real-time AI systems  
-- 🤖 Multi-agent workflows  
-- 📡 Streaming speech intelligence  
 
 ---
 
