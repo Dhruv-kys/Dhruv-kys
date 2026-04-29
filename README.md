@@ -1,5 +1,5 @@
-<!-- 🔥 MARVEL-STYLE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:111111,70:ff0000,100:000000&height=250&section=header&text=Dhruv%20Diwakirti&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=AI%20Software%20Engineer%20%7C%20Full-Stack%20Systems%20Builder&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<!-- 🔥 CLEAN MARVEL HEADER (FIXED) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff0000&height=200&section=header&text=DHruv%20Diwakirti&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 <!-- 🦾 MARVEL HERO -->
 <p align="center">
