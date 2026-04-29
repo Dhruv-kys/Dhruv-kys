@@ -1,0 +1,18 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="80" fill="#0d1117"/>
+  <line x1="0" y1="0" x2="900" y2="0" stroke="#30363d" stroke-width="1"/>
+
+  <!-- left accent -->
+  <rect x="0" y="0" width="4" height="80" fill="#00ff88"/>
+
+  <text x="26" y="34" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">~/dhruv-kys $ <tspan fill="#00ff88">echo</tspan> <tspan fill="#e6edf3">"shipped &gt; perfect"</tspan></text>
+  <text x="26" y="58" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">shipped &gt; perfect</text>
+
+  <!-- cursor -->
+  <rect x="26" y="64" width="9" height="13" fill="#00ff88" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- right tag -->
+  <text x="874" y="46" font-family="'Courier New', Courier, monospace" font-size="12" fill="#30363d" text-anchor="end">if this helped → ⭐</text>
+</svg>

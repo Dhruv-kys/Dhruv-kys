@@ -1,0 +1,58 @@
+<svg width="900" height="310" viewBox="0 0 900 310" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.8" fill="#00ff88" opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <!-- bg -->
+  <rect width="900" height="310" rx="8" fill="#0d1117"/>
+  <rect width="900" height="310" rx="8" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="899" height="309" rx="7.5" fill="none" stroke="#30363d"/>
+
+  <!-- left accent bar -->
+  <rect x="0" y="0" width="4" height="310" rx="3" fill="#00ff88"/>
+
+  <!-- title row -->
+  <text x="22" y="36" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">  ┌─ profile.json ──────────────────────────────────────────────────────────────</text>
+
+  <!-- row data -->
+  <!-- col 1 labels -->
+  <text x="22" y="68"  font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">  │  <tspan fill="#00ff88">role</tspan>       </text>
+  <text x="22" y="92"  font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">  │  <tspan fill="#00ff88">college</tspan>    </text>
+  <text x="22" y="116" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">  │  <tspan fill="#00ff88">company</tspan>    </text>
+  <text x="22" y="140" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">  │  <tspan fill="#00ff88">focus</tspan>      </text>
+  <text x="22" y="164" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">  │  <tspan fill="#00ff88">shipped</tspan>    </text>
+  <text x="22" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">  │  <tspan fill="#00ff88">stack</tspan>      </text>
+  <text x="22" y="212" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">  │  <tspan fill="#00ff88">status</tspan>     </text>
+
+  <!-- col 1 values -->
+  <text x="150" y="68"  font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">SWE Intern @ Cubical Frames</text>
+  <text x="150" y="92"  font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">JSS Academy of Technical Education, Noida</text>
+  <text x="150" y="116" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">Cubical Frames</text>
+  <text x="150" y="140" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">AI Systems  ·  LLM Pipelines  ·  Backend</text>
+  <text x="150" y="164" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">HireSense AI  ·  ExpenseMCP  ·  ASR Router</text>
+  <text x="150" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">FastAPI  ·  LangChain  ·  Docker  ·  AWS  ·  GCP</text>
+  <text x="150" y="212" font-family="'Courier New', Courier, monospace" font-size="13" fill="#00ff88">[ ████████████░░ ]  shipping</text>
+
+  <!-- divider -->
+  <line x1="22" y1="228" x2="878" y2="228" stroke="#30363d" stroke-width="0.8"/>
+
+  <!-- language bars -->
+  <text x="22" y="250" font-family="'Courier New', Courier, monospace" font-size="12" fill="#8b949e">  │  Languages</text>
+
+  <text x="150" y="250" font-family="'Courier New', Courier, monospace" font-size="12" fill="#00ff88">Python</text>
+  <text x="215" y="250" font-family="'Courier New', Courier, monospace" font-size="12" fill="#30363d">████████████████░░░░</text>
+  <text x="430" y="250" font-family="'Courier New', Courier, monospace" font-size="12" fill="#8b949e">80%</text>
+
+  <text x="150" y="270" font-family="'Courier New', Courier, monospace" font-size="12" fill="#ff6b35">Bash  </text>
+  <text x="215" y="270" font-family="'Courier New', Courier, monospace" font-size="12" fill="#30363d">███░░░░░░░░░░░░░░░░░</text>
+  <text x="430" y="270" font-family="'Courier New', Courier, monospace" font-size="12" fill="#8b949e">14%</text>
+
+  <text x="150" y="290" font-family="'Courier New', Courier, monospace" font-size="12" fill="#8b949e">Other </text>
+  <text x="215" y="290" font-family="'Courier New', Courier, monospace" font-size="12" fill="#30363d">█░░░░░░░░░░░░░░░░░░░</text>
+  <text x="430" y="290" font-family="'Courier New', Courier, monospace" font-size="12" fill="#8b949e"> 6%</text>
+
+  <!-- close line -->
+  <text x="22" y="308" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">  └──────────────────────────────────────────────────────────────────────────────</text>
+</svg>
