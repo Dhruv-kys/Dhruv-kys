@@ -1,109 +1,99 @@
-<!-- 🔥 CLEAN PREMIUM MARVEL HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,70:1f1f1f,100:ff0000&height=240&section=header&text=Dhruv%20Diwakirti&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20Full-Stack%20%2B%20AI%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<!-- 🖤 MINIMAL HERO -->
 
-<!-- 🦾 MARVEL HERO -->
+<h1 align="center">Dhruv Diwakirti</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/8xomIW1DRelmo/giphy.gif" width="320"/>
+AI Software Engineer · LLM Systems · Full-Stack
 </p>
 
-<!-- ⚡ HERO TYPING -->
+<!-- 🎴 CLEAN ANIME (not cringe) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=AI+%2B+Software+Engineer;LLMs+%7C+RAG+%7C+Agents;Node.js+%7C+FastAPI+%7C+Cloud;Build+→+Ship+→+Scale" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 </p>
 
-<h3 align="center">🦾 Building Intelligent Systems End-to-End</h3>
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruvdiwa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000"/>
+    <img src="https://img.shields.io/badge/linkedin-black?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:loltreat1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000"/>
+    <img src="https://img.shields.io/badge/email-black?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Dhruv-kys" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧬 ORIGIN
+## about
 
 ```yaml
-name: Dhruv Diwakirti
 role: AI Software Engineer
 
 focus:
-  - AI systems (LLMs, RAG, agents)
-  - backend engineering (APIs, async systems)
-  - full-stack apps (web + AI)
-  - cloud-native architecture
+  - LLM systems (RAG, agents)
+  - backend engineering (APIs, async)
+  - full-stack apps (Vue + Node)
+  - cloud systems (AWS, serverless)
+
+currently:
+  - real-time AI interview system
+  - streaming speech pipelines
+  - MCP-based AI workflows
 ```
 
 ---
 
-## ⚙️ POWER SET
+## stack
 
-- ⚡ real-time AI pipelines (stream → infer → respond)  
-- 🧠 LLM systems (RAG, agents, evaluation)  
-- 🏗️ scalable backends (FastAPI, Node.js, APIs)  
-- 🌐 full-stack apps (frontend + backend + AI)  
-- ☁️ cloud systems (AWS, serverless, containers)  
-
----
-
-## 🧰 TECH STACK
-
-### 🧠 AI / ML
-`LangChain` · `HuggingFace` · `Groq` · `RAG` · `Embeddings`
-
-### 🏗️ Backend
-`FastAPI` · `Node.js` · `Express` · `REST` · `Async`
-
-### 🌐 Frontend
-`Vue.js` · `JavaScript` · `HTML` · `CSS`
-
-### ☁️ Cloud & DevOps
-`AWS (Bedrock, Lambda, S3)` · `Docker` · `Git`
+```
+ai        → langchain · huggingface · embeddings · rag
+backend   → fastapi · node.js · express
+frontend  → vue.js · javascript
+infra     → aws · docker · serverless
+```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,vue,fastapi,aws,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,vue,fastapi,aws,docker,git,linux" />
 </p>
 
 ---
 
-## 🚀 PROJECTS
+## projects
 
-- 🤖 **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)** — real-time AI interview system  
-- 🔗 **[LangChain Agent](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)** — multi-tool reasoning agent  
-- 💸 **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)** — intelligent expense insights engine  
-- ☁️ **[Bedrock Generator](https://github.com/Dhruv-kys/Aws-Bedrock-Blog-Generator)** — serverless AI app  
-- 🧮 **[MathsGPT](https://github.com/Dhruv-kys/MathsGPT-Assistant)** — reasoning AI assistant  
+- **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)**  
+  real-time speech → llm → response system  
+
+- **[LangChain Agent](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)**  
+  multi-tool reasoning agent  
+
+- **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)**  
+  structured insight engine  
+
+- **[Bedrock Generator](https://github.com/Dhruv-kys/Aws-Bedrock-Blog-Generator)**  
+  serverless llm pipeline  
 
 ---
 
-## 📊 STATS
+## stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhruv-kys&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-kys&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dhruv-kys&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-kys&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 ACTIVITY
+## activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=github-dark&hide_border=true&bg_color=000000&color=ff0000&line=ff0000&point=ffffff" width="100%"/>
-
----
-
-## 🧠 PHILOSOPHY
-
-> build systems, not demos  
-> focus on latency & scale  
-> ship real-world AI  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=444444&point=ffffff" width="100%"/>
 
 ---
 
-<!-- 🔥 FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f1f1f,100:ff0000&height=120&section=footer" width="100%"/>
+## mindset
+
+> build real systems  
+> keep it simple  
+> ship consistently
