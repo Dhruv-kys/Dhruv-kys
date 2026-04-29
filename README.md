@@ -1,61 +1,172 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     VENOM HEADER BANNER                       -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0533,60:4c1d95,100:7c3aed&height=280&section=header&text=DHRUV%20DIWAKIRTI&fontSize=60&fontColor=e9d5ff&fontAlignY=45&desc=AI%20Engineer%20%20%7C%20%20ML%20Researcher%20%20%7C%20%20Ninja%20Builder%20%F0%9F%A5%B7&descSize=19&descColor=c4b5fd&descAlignY=68&animation=twinkling&stroke=7c3aed&strokeWidth=2" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     SYSTEM BOOT ANIMATION                     -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║           [ SYSTEM INITIALIZING... ]  >> BOOT OK ✓           ║
-║   IDENTITY  :  Dhruv Diwakirti  /  @Dhruv-kys                ║
-║   MISSION   :  Build Intelligent Systems that Matter         ║
-║   STATUS    :  Shipping AI at 100% throttle 🚀               ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<!-- ━━━━━━━━━━━━━━  HERO BANNER  ━━━━━━━━━━━━━━ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Machine+Learning+%2F+Deep+Learning;%E2%9A%A1+LangChain+%7C+RAG+%7C+AI+Agents;%F0%9F%A6%BE+Generative+AI+%7C+LLMs+%7C+Multimodal;%E2%98%81%EF%B8%8F+AWS+Bedrock+%7C+Serverless+%7C+MCP;%F0%9F%A5%B7+Ninja+Coder.+Silent.+Deadly.+Deployed." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0015,25:1e0045,55:4f0dab,80:8b2be2,100:c77dff&height=300&section=header&text=Dhruv%20Diwakirti&fontSize=72&fontColor=ffffff&fontAlignY=48&desc=Machine%20Learning%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Builder%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descColor=e9d5ff&descAlignY=70&animation=fadeIn&stroke=c084fc&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- ━━━━━━━━━━━━━━  TYPING LINE  ━━━━━━━━━━━━━━ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;LangChain+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+AWS+Bedrock;Turning+ideas+into+intelligent+systems+%E2%9C%A8;Ninja+coder.+Silent.+Deadly.+Deployed.+%F0%9F%A5%B7" alt="Typing" />
+
+<br/><br/>
+
+<!-- ━━━━━━━━━━━━━━  SOCIAL PILLS  ━━━━━━━━━━━━━━ -->
+
 <a href="https://www.linkedin.com/in/dhruvdiwa/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
-&nbsp;
+&ensp;
 <a href="mailto:loltreat1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+&ensp;
 <a href="https://github.com/Dhruv-kys">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Dhruv-kys&label=Stalker+Alert+👁&color=7c3aed&style=for-the-badge"/>
+&ensp;
+<img src="https://komarev.com/ghpvc/?username=Dhruv-kys&style=flat-square&color=8b2be2&label=visitors"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ━━━━━━━━━━━━━━  ABOUT + NINJA  ━━━━━━━━━━━━━━ -->
+
+<img align="right" src="https://media.giphy.com/media/3o7TKQf2hKRcaZVYQY/giphy.gif" width="270" height="310" style="border-radius:20px"/>
+
+<br/>
+
+### 👋 &nbsp;About Me
+
+<br/>
+
+&nbsp;&nbsp;🌱 &nbsp;Currently mastering **LangChain Agents & RAG Pipelines**
+
+&nbsp;&nbsp;💬 &nbsp;Ask me about **Machine Learning & Generative AI**
+
+&nbsp;&nbsp;🚀 &nbsp;Building with **LangChain · Groq · AWS Bedrock · HuggingFace**
+
+&nbsp;&nbsp;🤖 &nbsp;Exploring **MCP Servers** and agentic AI workflows
+
+&nbsp;&nbsp;📫 &nbsp;Reach me at [loltreat1@gmail.com](mailto:loltreat1@gmail.com)
+
+&nbsp;&nbsp;⚡ &nbsp;Fun fact — *I don't just write code. I deploy ninjas.* 🥷
+
+<br/><br/><br/><br/><br/>
+
+---
+
+<!-- ━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━ -->
+
+### 🛠 &nbsp;Tech Stack
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,fastapi,git,jupyter,linux,vscode&theme=dark&perline=10" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ChromaDB-FF6D00?style=flat-square&logoColor=white"/>
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━  TROPHIES  ━━━━━━━━━━━━━━ -->
+
+### 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-kys&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%"/>
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━  STATS  ━━━━━━━━━━━━━━ -->
+
+### 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruv-kys&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=c084fc&text_color=e9d5ff&ring_color=8b2be2"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-kys&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=e9d5ff"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-kys&theme=tokyonight&hide_border=true&background=00000000&ring=c084fc&fire=f43f5e&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=a78bfa" width="58%"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT + NINJA GIF                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━  PROJECTS  ━━━━━━━━━━━━━━ -->
 
-<img align="right" alt="Kakashi Ninja" width="290" height="330" src="https://media.giphy.com/media/3o7TKQf2hKRcaZVYQY/giphy.gif"/>
+### 🚀 &nbsp;Featured Projects
 
-### `// TALKING ABOUT PERSONAL STUFF:`
+<br/>
 
-```python
-class Dhruv(NinjaEngineer):
-    name       = "Dhruv Diwakirti"
-    location   = "India 🇮🇳"
-    learning   = ["LangChain Agents", "RAG Pipelines"]
-    builds_with = ["LangChain", "Groq", "AWS Bedrock",
+<div align="center">
+
+<a href="https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruv-kys&repo=LANGCHAIN-AGENT-Chatbot&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=e9d5ff"/>
+</a>
+&nbsp;
+<a href="https://github.com/Dhruv-kys/HireSense_AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruv-kys&repo=HireSense_AI&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=e9d5ff"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Dhruv-kys/Aws-Bedrock-Blog-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruv-kys&repo=Aws-Bedrock-Blog-Generator&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=e9d5ff"/>
+</a>
+&nbsp;
+<a href="https://github.com/Dhruv-kys/MathsGPT-Assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruv-kys&repo=MathsGPT-Assistant&theme=tokyonight&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=e9d5ff"/>
+</a>
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━  ACTIVITY  ━━━━━━━━━━━━━━ -->
+
+### 📈 &nbsp;Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=tokyo-night&hide_border=true&bg_color=00000000&color=c084fc&line=8b2be2&point=f43f5e&area=true&area_color=4c1d95" width="100%"/>
+
+---
+
+<!-- ━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<br/>
+
+*If you find something useful, don't forget to leave a* ⭐
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:c77dff,40:8b2be2,70:4f0dab,100:0a0015&height=120&section=footer&reversal=false" width="100%"/>    builds_with = ["LangChain", "Groq", "AWS Bedrock",
                    "HuggingFace", "Streamlit", "FastAPI"]
     exploring  = "MCP Servers & Agentic AI Workflows"
     reach_me   = "loltreat1@gmail.com"
