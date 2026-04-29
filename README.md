@@ -1,110 +1,134 @@
-[![Banner](images/banner.svg)](https://www.linkedin.com/in/dhruvdiwa/)
+<!-- 🔥 CYBERPUNK ANIME HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,70:4c1d95,100:a78bfa&height=260&section=header&text=Dhruv%20Diwakirti&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=AI%20SDE%20%7C%20Building%20Intelligent%20Systems%20⚡&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<br/>
+<!-- 🥷 ANIME GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="260"/>
+</p>
 
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/dhruvdiwa/)&nbsp;
-[![Gmail](images/gmail.svg)](mailto:loltreat1@gmail.com)&nbsp;
-[![GitHub](images/github.svg)](https://github.com/Dhruv-kys)
+<!-- ⚡ CYBER TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=AI+Software+Engineer+🤖;LLMs+%7C+RAG+%7C+Agents;Real-Time+AI+Systems+⚡;FastAPI+%7C+Backend+Engineering;Build+in+the+dark%2C+ship+in+production+🚀" />
+</p>
+
+<h3 align="center">⚡ Enter the AI System Zone ⚡</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruvdiwa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
+  </a>
+  <a href="mailto:loltreat1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=ef4444"/>
+  </a>
+  <a href="https://github.com/Dhruv-kys" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 A little more about me...
+<img align="right" alt="anime coder" width="300" src="https://media.giphy.com/media/3o7TKQf2hKRcaZVYQY/giphy.gif"/>
 
-[![About](images/about.svg)](#)
+## 🧠 System Profile
 
-Hey, I'm **Dhruv** — a CS undergrad at JSS Noida and an AI Engineer intern at **Cubical Frames**.
+```yaml
+Name: Dhruv Diwakirti
+Role: AI Software Development Engineer
+Mode: Building AI systems that actually run in production
 
-I build things that actually run in production: real-time voice pipelines, RAG systems, LLM agents, and backend services that hold up when nobody's watching. My default instinct is Python, FastAPI, and Docker — then whatever AI layer the problem needs. I've shipped STT/TTS pipelines under 2s latency, RAG over private corpora, MCP servers for agentic tool-use, and ASR routing systems that detect language before even transcribing.
+Core Systems:
+  - LLM Applications (RAG + Agents)
+  - Real-Time AI Pipelines
+  - Backend Systems for AI
+  - Scalable AI Infrastructure
 
-Outside of code, I watch too much anime and think too much about distributed systems.
-
-```python
-dhruv = {
-    "name"     : "Dhruv Diwakirti",
-    "college"  : "JSS Academy of Technical Education, Noida ('27)",
-    "role"     : "SWE Intern @ Cubical Frames",
-
-    "languages": {
-        "main"     : ["Python"],
-        "learning" : ["Go", "TypeScript"],
-        "basics"   : ["SQL", "Bash"],
-    },
-
-    "stack": {
-        "backend"  : ["FastAPI", "PostgreSQL", "Docker"],
-        "ai_ml"    : ["LangChain", "RAG", "OpenAI", "ElevenLabs", "SpeechBrain",
-                      "HuggingFace", "AWS Bedrock", "Groq", "ChromaDB"],
-        "infra"    : ["AWS", "GCP", "GitHub Actions"],
-        "agentic"  : ["MCP Servers", "Tool-use Agents", "VAD Gating"],
-    },
-
-    "shipped": [
-        "HireSense AI    —  real-time voice interview pipeline, sub-2s latency",
-        "ASR Router      —  SpeechBrain LID → ElevenLabs Scribe / Soniox routing",
-        "ExpenseMCP      —  MCP server for LLM agent financial tool-use",
-        "Bedrock Blogs   —  serverless blog gen on AWS Bedrock + Lambda + S3",
-        "LangChain Agent —  multi-tool agent with memory & contextual reasoning",
-    ],
-
-    "interests"    : ["distributed systems", "agentic AI", "voice interfaces", "anime"],
-    "current_focus": "production AI systems that work when nobody's watching",
-}
+Current Mission:
+  - Real-time Interview AI (streaming + reasoning)
+  - MCP-based intelligent systems
+  - Domain-aware speech pipelines
 ```
 
 ---
 
-## 🚀 Projects
+## ⚙️ Engineering Arsenal
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)** | Real-time voice interview pipeline — VAD gating, GPT follow-up generation | ElevenLabs · OpenAI · FastAPI |
-| **[LangChain Agent Chatbot](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)** | Multi-tool agent with memory and contextual reasoning over long sessions | LangChain · Python |
-| **[AWS Bedrock Blog Generator](https://github.com/Dhruv-kys/Aws-Bedrock-Blog-Generator)** | Serverless blog pipeline — Claude/Titan on Bedrock, Lambda, S3 | AWS Bedrock · Lambda · S3 |
-| **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)** | MCP server giving LLM agents structured tool access to financial data | MCP · Python |
-
-> [!NOTE]
-> This README is a living snapshot — projects and focus shift as I build and grow. Check back often.
+- ⚡ Design **low-latency AI pipelines (streaming → inference → response)**
+- 🧠 Build **RAG systems (retrieval + ranking + grounding)**
+- 🤖 Develop **agentic systems (tools, memory, orchestration)**
+- 🏗️ Engineer **scalable APIs (FastAPI + async systems)**
+- ☁️ Deploy **serverless AI infra (AWS Bedrock + Lambda)**
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,linux,git&theme=dark" />
+</p>
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Dhruv-kys&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-kys&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" />
+**AI / ML**
+- LangChain • HuggingFace • Groq  
+- RAG Pipelines • Embeddings • Vector DBs  
 
-<br/>
+**Backend**
+- FastAPI • Async APIs • Streaming Systems  
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-kys&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=555555&dates=444444" />
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6b35&area=true&area_color=00ff8815&hide_border=true)](https://github.com/Dhruv-kys)
-
-</div>
+**Infra**
+- AWS Bedrock • Lambda • S3 • Docker  
 
 ---
 
-## 🐍 Contributions
+## 🚀 Active Projects
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
+| ⚡ System | Description |
+|----------|------------|
+| 🤖 AI Interview Agent | Real-time speech → LLM → response system |
+| 🔗 LangChain Agent | Multi-tool reasoning AI |
+| 💸 ExpenseMCP | Context-aware expense intelligence |
+| ☁️ Bedrock Blog Gen | Serverless GenAI pipeline |
+| 🧮 MathsGPT | Structured reasoning AI |
+| 📖 NLP Model | LSTM text generation |
 
 ---
 
-[![Footer](images/footer.svg)](#)
+## 📊 System Metrics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhruv-kys&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-kys&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Signal
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=tokyo-night&hide_border=true&bg_color=020617&color=a78bfa&line=7c3aed&point=ffffff" width="100%"/>
+
+---
+
+## 🧠 Current Build Mode
+
+- ⚡ Real-time AI pipelines  
+- 🤖 Multi-agent systems  
+- 📡 Streaming speech intelligence  
+
+---
+
+## 🧠 Philosophy
+
+> Build systems, not demos  
+> Optimize latency before aesthetics  
+> Ship fast. Iterate faster.  
+
+---
+
+## ❤️ Support
+
+<p align="center">
+  ⭐ Star repos if you vibe with this build  
+</p>
+
+---
+
+<!-- 🔥 CYBER FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4c1d95,100:a78bfa&height=140&section=footer" width="100%"/>
