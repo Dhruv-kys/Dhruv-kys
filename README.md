@@ -1,82 +1,85 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=70&lines=Dhruv+Diwakirti" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&pause=999999&color=00FF88&center=true&vCenter=true&width=900&height=80&lines=Dhruv+Diwakirti" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=888888&center=true&vCenter=true&width=800&lines=Software+Engineer+%2F+AI+Systems+%2F+LLM+Pipelines+%2F+Backend+Infra;Building+real+AI+products+%E2%80%94+not+just+notebooks;FastAPI+%C2%B7+LangChain+%C2%B7+RAG+%C2%B7+AWS+%C2%B7+ElevenLabs+%C2%B7+Docker" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1200&color=555555&center=true&vCenter=true&width=700&lines=software+engineer+%2F+ai+systems+%2F+llm+pipelines+%2F+backend+infra" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-dhruvdiwa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvdiwa/)&nbsp;
-[![Gmail](https://img.shields.io/badge/-loltreat1@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:loltreat1@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/-Dhruv--kys-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhruv-kys)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Dhruv-kys&style=flat-square&color=00ff88&label=views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvdiwa/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:loltreat1@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhruv-kys)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=Dhruv-kys&style=flat-square&color=00ff88&label=views)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.tenor.com/1_-x2wBBKUkAAAAd/gojo-satoru-jjk.gif" width="230" />
+<img align="right" src="https://media.tenor.com/1_-x2wBBKUkAAAAd/gojo-satoru-jjk.gif" width="220" />
 
-```
-┌─────────────────────────────────────────────────┐
-│                  $ neofetch                     │
-├─────────────────────────────────────────────────┤
-│  OS       Arch Linux (JSS NOIDA '27)            │
-│  Shell    Python 3.11 / FastAPI                 │
-│  Role     SWE Intern @ Cubical Frames           │
-│  Focus    AI Systems · Backend · LLM Pipelines  │
-│  Stack    LangChain · RAG · AWS · Docker · GCP  │
-│  Built    HireSense AI / ExpenseMCP / ASR Router│
-│  Status   [ ██████████░░ ] shipping             │
-└─────────────────────────────────────────────────┘
-```
+## 🧠 A little more about me...
 
-**Currently shipping:**
-- 🎙️ Real-time voice interview AI (ElevenLabs + OpenAI + VAD gating)
-- 🔍 RAG pipelines over private corpora with semantic retrieval
-- 🌐 ASR auto-routing — SpeechBrain LID → ElevenLabs Scribe / Soniox
-- 🧱 FastAPI microservices containerized on AWS / GCP
-- 🤖 MCP servers giving LLM agents structured tool access
+Hey, I'm **Dhruv** — a CS undergrad at JSS Noida, currently interning as an AI Engineer at **Cubical Frames**.
+
+I build things that actually run in prod: voice pipelines, RAG systems, LLM agents, and backend services that hold up under real load. I'm less interested in demos and more interested in systems that work at 2am when nobody's watching.
+
+My instinct is to reach for Python, FastAPI, and Docker first — then wire in whatever AI layer the problem needs. I've shipped STT/TTS pipelines with sub-2s latency, RAG over private corpora, MCP servers for agent tool-use, and ASR routing systems that detect language before even transcribing.
+
+Outside code, I watch too much anime and think too much about distributed systems.
 
 <br clear="right"/>
 
+```python
+dhruv = {
+    "name"      : "Dhruv Diwakirti",
+    "college"   : "JSS Academy of Technical Education, Noida ('27)",
+    "role"      : "SWE Intern @ Cubical Frames",
+
+    "languages" : {
+        "main"     : ["Python"],
+        "learning" : ["Go", "TypeScript"],
+        "basics"   : ["SQL", "Bash"],
+    },
+
+    "stack" : {
+        "backend"   : ["FastAPI", "PostgreSQL", "Docker", "REST"],
+        "ai_ml"     : ["LangChain", "RAG", "OpenAI", "ElevenLabs", "SpeechBrain",
+                       "HuggingFace", "AWS Bedrock", "Groq", "ChromaDB"],
+        "infra"     : ["AWS", "GCP", "GitHub Actions"],
+        "agentic"   : ["MCP Servers", "Tool-use Agents", "VAD Gating"],
+    },
+
+    "shipped" : [
+        "HireSense AI   — real-time voice interview pipeline, sub-2s latency",
+        "ASR Router     — SpeechBrain LID → ElevenLabs Scribe / Soniox routing",
+        "ExpenseMCP     — MCP server for LLM agent financial tool-use",
+        "Bedrock Blogs  — serverless blog gen on AWS Bedrock + Lambda + S3",
+        "LangChain Agent — multi-tool agent with memory & contextual reasoning",
+    ],
+
+    "interests" : ["distributed systems", "agentic AI", "voice interfaces", "anime"],
+
+    "current_focus" : "production AI systems that work when nobody's watching",
+}
+```
+
 ---
 
-### Tech Stack
+## 🚀 Projects
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,gcp,git,postgresql,pytorch&theme=dark&perline=8" />
-
-<br/><br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-00ff88?style=flat-square&logo=langchain&logoColor=black)&nbsp;
-![RAG](https://img.shields.io/badge/RAG_Pipelines-00ff88?style=flat-square&logoColor=black)&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)&nbsp;
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-1a1a1a?style=flat-square&logoColor=white)&nbsp;
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=black)&nbsp;
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)&nbsp;
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)&nbsp;
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a1a?style=flat-square)&nbsp;
-![SpeechBrain](https://img.shields.io/badge/SpeechBrain-00ff88?style=flat-square&logoColor=black)&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</div>
-
----
-
-### Projects
-
-| | Project | What it does |
+| Project | What it does | Stack |
 |---|---|---|
-| 🎙️ | **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)** | Real-time voice interview pipeline — ElevenLabs STT/TTS, GPT NLU, VAD gating, sub-2s latency |
-| 🤖 | **[LangChain Agent Chatbot](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)** | Multi-tool agent with memory, tool-calling, and contextual reasoning |
-| ☁️ | **[AWS Bedrock Blog Generator](https://github.com/Dhruv-kys/Aws-Bedrock-Blog-Generator)** | Serverless blog pipeline — Claude/Titan on Bedrock, Lambda, S3 |
-| 💸 | **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)** | MCP server letting LLM agents query and manage financial data via structured tools |
+| **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)** | Real-time voice interview agent with VAD gating and follow-up question generation | ElevenLabs · OpenAI · FastAPI |
+| **[LangChain Agent Chatbot](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)** | Multi-tool agent with memory and contextual reasoning | LangChain · Python |
+| **[AWS Bedrock Blog Generator](https://github.com/Dhruv-kys/Aws-Bedrock-Blog-Generator)** | Serverless blog pipeline on Claude/Titan via Bedrock | AWS Lambda · Bedrock · S3 |
+| **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)** | MCP server giving LLM agents structured access to financial data | MCP · Python |
+
+> [!NOTE]
+> This README is a living snapshot — projects and focus areas shift as I build and grow. Check back often.
 
 ---
 
-### GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -86,30 +89,30 @@
 
 <br/>
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-kys&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=888888&dates=555555" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-kys&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=555555&dates=444444" />
 
 </div>
 
 ---
 
-### Activity
+## 📈 Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6b35&area=true&area_color=00ff8820&hide_border=true)](https://github.com/Dhruv-kys)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6b35&area=true&area_color=00ff8815&hide_border=true)](https://github.com/Dhruv-kys)
 
 </div>
 
 ---
 
-### Contributions
+## 🐍 Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Dhruv-kys/Dhruv-kys/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -118,6 +121,6 @@
 
 <div align="center">
 
-`// shipped > perfect`&nbsp;&nbsp;·&nbsp;&nbsp;*drop a ⭐ if it helped*
+*if something here helped you, drop a ⭐ — it means a lot*
 
 </div>
