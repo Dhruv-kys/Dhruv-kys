@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" alt="AI Coding" width="300" height="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Ninja Coder" width="300" height="340" src="https://media.giphy.com/media/3o7TKQf2hKRcaZVYQY/giphy.gif"/>
 
 ### Talking about Personal Stuff:
 
