@@ -1,6 +1,6 @@
 <!-- 🎴 CINEMATIC ANIME HERO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKQf2hKRcaZVYQY/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
 </p>
 
 <h1 align="center">Dhruv Diwakirti</h1>
