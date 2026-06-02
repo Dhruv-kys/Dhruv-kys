@@ -43,9 +43,34 @@ goal        build useful products that survive real users
 
 ### Languages And Tools
 
-`Python` `TypeScript` `JavaScript` `FastAPI` `Node.js` `React` `Vue` `PostgreSQL` `Docker` `AWS` `GCP` `Git` `Linux`
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python"/><br><sub>Python</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript"/><br><sub>TypeScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript"/><br><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI"/><br><sub>FastAPI</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="Node.js"/><br><sub>Node.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React"/><br><sub>React</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="36" height="36" alt="Vue"/><br><sub>Vue</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL"/><br><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker"/><br><sub>Docker</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS"/><br><sub>AWS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="36" height="36" alt="GCP"/><br><sub>GCP</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git"/><br><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux"/><br><sub>Linux</sub></td>
+  </tr>
+</table>
 
-`RAG` `Embeddings` `LangChain` `FAISS` `OpenAI` `Hugging Face` `AWS Bedrock` `MCP` `STT/TTS` `ASR Routing`
+![RAG](https://img.shields.io/badge/RAG-555?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-555?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-3c6eb4?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-555?style=flat-square)
+![STT/TTS](https://img.shields.io/badge/STT%2FTTS-555?style=flat-square)
+![ASR Routing](https://img.shields.io/badge/ASR_Routing-555?style=flat-square)
 
 ### Selected Builds
 
