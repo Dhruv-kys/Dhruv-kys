@@ -1,79 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:1F6FEB,100:00C2A8&text=Dhruv%20Diwakirti&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=SWE%20Intern%20%7C%20AI%2FML%20Systems%20%7C%20Backend%20Engineering&descAlignY=60&descSize=15" width="100%" />
+<img src="./assets/retro-anime-banner.svg" width="100%" alt="Retro anime banner for Dhruv Diwakirti" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvdiwa/)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:loltreat1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv-kys)
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2200&pause=700&color=FF7BD5&center=true&vCenter=true&width=900&height=54&lines=Dhruv+Diwakirti;SWE+Intern+//+AI%2FML+Systems;Backend+//+Cloud+//+Agents" alt="Typing intro" />
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=7FFCFF&labelColor=050711)](https://www.linkedin.com/in/dhruvdiwa/)
+[![Email](https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FF7BD5&labelColor=050711)](mailto:loltreat1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050711)](https://github.com/Dhruv-kys)
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-050711?style=flat-square&logo=python&logoColor=7FFCFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-050711?style=flat-square&logo=fastapi&logoColor=7FFCFF)
+![AI/ML](https://img.shields.io/badge/AI%2FML-050711?style=flat-square&logo=openai&logoColor=FF7BD5)
+![AWS](https://img.shields.io/badge/AWS-050711?style=flat-square&logo=amazonwebservices&logoColor=FFB86B)
+![Docker](https://img.shields.io/badge/Docker-050711?style=flat-square&logo=docker&logoColor=7FFCFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-050711?style=flat-square&logo=typescript&logoColor=7FFCFF)
 
 </div>
 
-## Hey, I'm Dhruv
+## SYSTEM PROFILE // SWE x AI/ML
 
-I'm a Computer Science undergrad at **JSS Academy of Technical Education, Noida** and a **Software Engineering Intern** building backend-heavy **AI/ML systems**.
+I am **Dhruv Diwakirti**, a Computer Science undergrad at **JSS Academy of Technical Education, Noida** and a **Software Engineering Intern** building backend-heavy **AI/ML systems**.
 
-I care about the engineering behind intelligent products: clean APIs, reliable services, async pipelines, low-latency voice flows, retrieval systems, ML integrations, and code that keeps working after the demo ends.
+My lane is where software engineering meets intelligent products: APIs that stay clean, pipelines that do not fall apart, model integrations that are useful, cloud pieces that actually ship, and real-time systems where latency matters.
 
-```python
-dhruv = {
-    "role": "SWE Intern focused on AI/ML systems",
-    "focus": ["backend engineering", "AI/ML", "distributed systems"],
-    "building": ["voice agents", "RAG systems", "MCP servers", "health-tech ML tools"],
-    "default_stack": ["Python", "FastAPI", "Docker", "PostgreSQL", "AWS"],
-    "currently_learning": ["Go", "TypeScript", "system design"],
-}
+```yaml
+role: SWE Intern focused on AI/ML systems
+mode: backend-first, cloud-aware, product-minded
+
+domains:
+  - AI/ML applications
+  - backend APIs and async services
+  - RAG, agents, and MCP tool servers
+  - speech, transcription, and real-time ASR
+  - AWS-based serverless AI workflows
 ```
 
-## What I Build
+## STACK SIGNAL
 
-- Backend services with **FastAPI**, REST APIs, async workflows, and Dockerized deployment.
-- AI/ML-powered products where the software matters: **speech pipelines**, **RAG**, **agents**, model APIs, and tool-use systems.
-- Practical software around hiring, healthcare, finance, and content automation.
-- Small systems that are easy to reason about, test, ship, and improve.
+```text
+AI/ML        RAG, embeddings, LangChain, FAISS, OpenAI, Hugging Face, AWS Bedrock, MCP
+Backend      Python, FastAPI, Node.js, REST APIs, PostgreSQL, Docker
+Cloud        AWS Bedrock, Lambda, S3, GCP, GitHub Actions, Vercel
+Frontend     JavaScript, TypeScript, React, Vue
+Systems      async pipelines, STT/TTS, diarization, ASR routing, observability-minded APIs
+CS Core      DSA, OOP, DBMS, OS, computer networks
+```
 
-## Recent Work
+<div align="center">
 
-| Project | Engineering Story | Stack |
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nodejs,react,vue,postgres,docker,aws,gcp,git,linux" alt="Tech stack icons" />
+
+</div>
+
+## NIGHT CITY BUILDS
+
+| Project | What it proves | Stack |
 |---|---|---|
-| **[VitalSense](https://github.com/Dhruv-kys/VitalSense)** | Health-tech project focused on turning user signals into usable software workflows | Python · ML · App Engineering |
-| **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)** | Real-time interview system with voice input, reasoning, and follow-up generation | FastAPI · OpenAI · STT/TTS |
-| **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)** | MCP server that exposes structured financial tools to LLM agents | Python · MCP · Tool Use |
-| **[LangChain Agent Chatbot](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)** | Multi-tool chatbot with memory and contextual reasoning | LangChain · Python |
-| **[AWS Bedrock Blog Generator](https://github.com/Dhruv-kys/Aws-Bedrock-Blog-Generator)** | Serverless content generation pipeline on AWS | Bedrock · Lambda · S3 |
+| **[AUDEX](https://github.com/Dhruv-kys/AUDEX)** | Full-stack audio transcription and analysis with AI evaluations | React, FastAPI, STT, diarization |
+| **[HireSense AI](https://github.com/Dhruv-kys/HireSense_AI)** | Real-time AI interview flow with voice input and follow-up reasoning | FastAPI, OpenAI, STT/TTS |
+| **[realtime-Dubai-ASR](https://github.com/Dhruv-kys/realtime-Dubai-ASR)** | Speech pipeline work around real-time ASR routing | Python, ASR, audio systems |
+| **[AWSbedrock-PDF-system](https://github.com/Dhruv-kys/AWSbedrock-PDF-system)** | Document QA with retrieval and cloud LLM infrastructure | AWS Bedrock, LangChain, FAISS |
+| **[Aws-Bedrock-Blog-Generator](https://github.com/Dhruv-kys/Aws-Bedrock-Blog-Generator)** | Serverless AI content pipeline with API-triggered generation | AWS Bedrock, Lambda, S3 |
+| **[ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP)** | MCP server exposing financial tools to LLM agents | Python, MCP, agents |
+| **[VitalSense](https://github.com/Dhruv-kys/VitalSense)** | Health-tech workflow with ML/product engineering focus | Python, ML, app engineering |
+| **[LANGCHAIN-AGENT-Chatbot](https://github.com/Dhruv-kys/LANGCHAIN-AGENT-Chatbot)** | Multi-tool reasoning chatbot with contextual behavior | LangChain, Python, agents |
 
-## Toolbox
+## BUILD MANIFEST
+
+```text
+01. make the backend boringly reliable
+02. wire AI/ML where it creates real leverage
+03. keep latency visible and failure paths handled
+04. prefer shipped systems over shiny prototypes
+05. learn the stack deeply enough to debug it at midnight
+```
+
+## TELEMETRY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,fastapi,nodejs,vue,postgres,docker,aws,gcp,git,linux" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Dhruv-kys&show_icons=true&hide_border=true&bg_color=050711&title_color=FF7BD5&icon_color=7FFCFF&text_color=DDE7FF&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-kys&layout=compact&hide_border=true&bg_color=050711&title_color=FF7BD5&text_color=DDE7FF&langs_count=6" alt="Top languages" />
 
-</div>
-
-```text
-Backend       Python, FastAPI, Node.js, REST, PostgreSQL
-AI/ML         RAG, embeddings, LangChain, OpenAI, Hugging Face, AWS Bedrock, MCP
-Infra         Docker, AWS, GCP, GitHub Actions, Linux
-Frontend      Vue, JavaScript, TypeScript
-CS Core       DSA, OOP, DBMS, OS, computer networks
-```
-
-## Operating Mode
-
-```text
-ship small, improve fast
-prefer working software over flashy demos
-measure latency, handle failure, keep the interface simple
-learn the system deeply enough to make it boringly reliable
-```
-
-## GitHub Pulse
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Dhruv-kys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C2A8&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-kys&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2A8&text_color=C9D1D9&langs_count=6" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00C2A8&point=1F6FEB&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-kys&theme=react-dark&hide_border=true&bg_color=050711&color=DDE7FF&line=FF7BD5&point=7FFCFF&area=true&area_color=FF7BD522" alt="GitHub activity graph" />
 
 </div>
 
@@ -81,6 +92,6 @@ learn the system deeply enough to make it boringly reliable
 
 <div align="center">
 
-**Open to SWE / AI Engineering Intern roles where I can build real systems, learn from sharp teams, and ship useful products.**
+**Open to SWE / AI Engineering Intern roles where I can build AI/ML products, backend systems, and cloud workflows that hold up outside the demo.**
 
 </div>
