@@ -3,11 +3,10 @@ name: Deploy Game to GitHub Pages
 on:
   push:
     branches: [main]
-    paths: [game/**]
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -24,11 +23,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-        with:
-          enablement: true
 
       - name: Upload game folder
         uses: actions/upload-pages-artifact@v3
