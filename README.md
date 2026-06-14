@@ -1,7 +1,13 @@
 <table>
   <tr>
-    <td width="45%" valign="top">
-      <img src="./assets/night-window.gif" width="100%" alt="Retro anime night window" />
+    <td width="45%" valign="top" align="center">
+      <br/><br/><br/><br/>
+      <h2>🎮</h2>
+      <br/>
+      <a href="https://dhruv-kys.github.io/Dhruv-kys/"><b>▶ PLAY MARIO</b></a>
+      <br/><br/>
+      <sub>← → move &nbsp;·&nbsp; ↑ jump &nbsp;·&nbsp; stomp goombas</sub>
+      <br/><br/><br/><br/>
     </td>
     <td width="55%" valign="top">
       <h1>Hello, I'm Dhruv Diwakirti</h1>
@@ -99,6 +105,18 @@ debug the system deeply, then simplify it
 - Better RAG evaluation, retrieval quality, and agent-tool boundaries.
 - Voice interfaces, ASR routing, and low-latency conversational systems.
 - System design patterns for AI-heavy backend services.
+
+---
+
+### 🎮 Play
+
+<div align="center">
+
+**[▶ &nbsp; PLAY MARIO &nbsp; ←](https://dhruv-kys.github.io/Dhruv-kys/)**
+
+*HTML5 Canvas platformer · vanilla JS · no frameworks · runs in your browser*
+
+</div>
 
 ---
 
