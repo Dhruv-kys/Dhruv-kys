@@ -1,53 +1,38 @@
-<table>
-  <tr>
-    <td width="45%" valign="top" align="center">
-      <br/><br/><br/><br/>
-      <h2>🎮</h2>
-      <br/>
-      <a href="https://dhruv-kys.github.io/Dhruv-kys/"><b>▶ PLAY MARIO</b></a>
-      <br/><br/>
-      <sub>← → move &nbsp;·&nbsp; ↑ jump &nbsp;·&nbsp; stomp goombas</sub>
-      <br/><br/><br/><br/>
-    </td>
-    <td width="55%" valign="top">
-      <h1>Hello, I'm Dhruv Diwakirti</h1>
-      <h3>Software Engineer building AI/ML systems</h3>
-      <p><b>Glad to see you here.</b></p>
-      <p>
-        I build the software around intelligence: backend APIs, real-time
-        speech pipelines, retrieval systems, agent tools, and cloud workflows
-        that are designed to keep working after the demo is over.
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/dhruvdiwa/">LinkedIn</a>
-        &nbsp;|&nbsp;
-        <a href="mailto:loltreat1@gmail.com">Email</a>
-        &nbsp;|&nbsp;
-        <a href="https://github.com/Dhruv-kys">GitHub</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media1.tenor.com/m/eG2eoXI8r8wAAAAd/girl-cop.gif" width="60%" alt="gif" />
+</p>
 
-### Quick Read
+<h1 align="center">Dhruv Diwakirti</h1>
 
-```txt
-role        Software Engineering Intern
-identity    SWE x AI/ML x Backend x Cloud
-focus       RAG apps, agents, voice AI, MCP tools, cloud AI systems
-style       clean APIs, low latency, reliable pipelines, simple interfaces
-goal        build useful products that survive real users
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruvdiwa/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:loltreat1@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Dhruv-kys">GitHub</a>
+</p>
 
-### What I Am Building Toward
+## About me
 
-- AI/ML products that feel like solid software, not fragile experiments.
-- Backend systems with clear contracts, predictable failure paths, and clean deployment stories.
-- Speech and real-time AI flows where latency, routing, and reliability matter.
-- Cloud-backed workflows using tools like AWS Bedrock, Lambda, S3, Docker, and CI.
-- Agentic systems with practical tool use, structured data access, and useful orchestration.
+I'm a software engineer. Most of my work is backend and AI/ML: I build APIs,
+speech and transcription pipelines, retrieval systems, and small agent tools.
+I like systems that keep running after the demo, so I spend a lot of time on
+latency, error handling, and deployment rather than just the happy path.
 
-### Languages And Tools
+Right now I'm looking for SWE / AI engineering internships where I can work on
+real products and learn from people who ship.
+
+### Summary
+
+I started out wanting to make AI features actually work in production, not just
+in a notebook. That pushed me into backend and cloud work, because the model is
+usually the easy part and the plumbing around it is where things break. I've
+built audio transcription and diarization tools, a real-time interview system
+with voice input, document Q&A over private files, and a few MCP servers for
+agent workflows. I prefer small, boring, reliable code over clever code, and I'd
+rather ship something useful than something impressive.
+
+## Skills, languages, and tools
 
 <table>
   <tr>
@@ -78,9 +63,9 @@ goal        build useful products that survive real users
 ![STT/TTS](https://img.shields.io/badge/STT%2FTTS-555?style=flat-square)
 ![ASR Routing](https://img.shields.io/badge/ASR_Routing-555?style=flat-square)
 
-### Selected Builds
+## Selected builds
 
-| Project | Engineering Story |
+| Project | What it does |
 |---|---|
 | [AUDEX](https://github.com/Dhruv-kys/AUDEX) | Full-stack audio transcription, diarization, and AI evaluation through a dashboard workflow |
 | [HireSense AI](https://github.com/Dhruv-kys/HireSense_AI) | Real-time interview system combining voice input, reasoning, and follow-up generation |
@@ -88,38 +73,3 @@ goal        build useful products that survive real users
 | [Aws-Bedrock-Blog-Generator](https://github.com/Dhruv-kys/Aws-Bedrock-Blog-Generator) | Serverless AI content generation with API-triggered Lambda and S3 storage |
 | [ExpenseMCP](https://github.com/Dhruv-kys/ExpenseMCP) | MCP server that exposes financial tools for agentic workflows |
 | [realtime-Dubai-ASR](https://github.com/Dhruv-kys/realtime-Dubai-ASR) | Real-time speech and ASR routing experiments for audio-heavy systems |
-
-### How I Work
-
-```txt
-ship the smallest useful version
-make latency and errors visible
-prefer boring APIs over clever surfaces
-use AI/ML where it creates leverage
-debug the system deeply, then simplify it
-```
-
-### Currently Curious About
-
-- Production AI systems that are observable, testable, and cheap enough to run.
-- Better RAG evaluation, retrieval quality, and agent-tool boundaries.
-- Voice interfaces, ASR routing, and low-latency conversational systems.
-- System design patterns for AI-heavy backend services.
-
----
-
-### 🎮 Play
-
-<div align="center">
-
-**[▶ &nbsp; PLAY MARIO &nbsp; ←](https://dhruv-kys.github.io/Dhruv-kys/)**
-
-*HTML5 Canvas platformer · vanilla JS · no frameworks · runs in your browser*
-
-</div>
-
----
-
-<p align="center">
-  <b>Open to SWE / AI Engineering Intern roles where I can build AI/ML products, backend systems, and cloud workflows.</b>
-</p>
