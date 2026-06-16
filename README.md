@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dhruv-kys&label=Profile%20visits&color=ff4444&style=flat-square" alt="Profile visits" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/dhruvdiwa/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:loltreat1@gmail.com">Email</a>
