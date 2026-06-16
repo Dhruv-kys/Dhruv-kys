@@ -2,11 +2,11 @@
   <img src="https://media1.tenor.com/m/eG2eoXI8r8wAAAAd/girl-cop.gif" width="60%" alt="gif" />
 </p>
 
-<h1 align="center">Dhruv Diwakirti</h1>
+<h1>Dhruv Diwakirti</h1>
 
-<h3 align="center">Welcome my friend or scrapper </h3>
+<h3>Welcome my friend or scrapper </h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Dhruv-kys&label=Profile%20visits&color=ff4444&style=flat-square" alt="Profile visits" />
 </p>
 
