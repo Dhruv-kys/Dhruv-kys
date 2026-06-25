@@ -20,7 +20,8 @@
 
 ## About me
 
-I'm a software engineer. Most of my work is backend and AI/ML: I build APIs,
+</>SDE intern @ Amatyaa </> ex - AI Developer intern @ Cubical Frames </>
+Most of my work is backend and AI/ML: I build APIs,
 speech and transcription pipelines, retrieval systems, and small agent tools.
 I like systems that keep running after the demo, so I spend a lot of time on
 latency, error handling, and deployment rather than just the happy path.
