@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">Dhruv Diwakirti</h1>
-
-<h3 align="center">Welcome my friend or scrapper </h3>
+<h3 align="center">Welcome my friend or scrapper</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhruv-kys&label=Profile%20visits&color=ff4444&style=flat-square" alt="Profile visits" />
@@ -20,21 +19,18 @@
 
 ## About me
 
-<p> </>SDE intern @ Amatyaa </> ex - AI Developer intern @ Cubical Frames </> </p>
-Most of my work is backend and AI/ML: I build APIs,
-speech and transcription pipelines, retrieval systems, and small agent tools.
-I like systems that keep running after the demo, so I spend a lot of time on
-latency, error handling, and deployment rather than just the happy path.
+**SDE Intern @ Amatyaa** · ex AI Developer Intern @ Cubical Frames
 
-Right now I'm looking for SWE / AI engineering internships where I can work on
-real products and learn from people who ship.
+Plumbing my way through Backend + AI/ML.
 
-### Summary
+## What I've built
 
-I started out wanting to make AI features actually work in production, not just
-in a notebook. That pushed me into backend and cloud work, because the model is
-usually the easy part and the plumbing around it is where things break. I've
-built audio transcription and diarization tools, a real-time interview system
-with voice input, document Q&A over private files, and a few MCP servers for
-agent workflows. I prefer small, boring, reliable code over clever code, and I'd
-rather ship something useful than something impressive.
+- **Voice AI:** transcription, diarization, real-time interview system
+- **Agentic AI:** agent tools and workflows
+- **Production RAG:** semantic search, BM25, rerankers, evals
+- **MCP servers:** built and integrated them for agent workflows
+- **Fine-tuning:** Whisper large-v3 and BERT-based models
+
+## Currently
+
+Hunting for SWE / AI engineering internships. Real products, people who ship.
