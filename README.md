@@ -20,7 +20,7 @@
 
 ## About me
 
-</>SDE intern @ Amatyaa </> ex - AI Developer intern @ Cubical Frames </>
+<p> </>SDE intern @ Amatyaa </> ex - AI Developer intern @ Cubical Frames </> </p>
 Most of my work is backend and AI/ML: I build APIs,
 speech and transcription pipelines, retrieval systems, and small agent tools.
 I like systems that keep running after the demo, so I spend a lot of time on
