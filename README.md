@@ -6,7 +6,7 @@
 <h3 align="center">Welcome my friend or scrapper</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruv-kys&label=Profile%20visits&color=ff4444&style=flat-square" alt="Profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=Dhruv-kys&label=Profile%20visits&color=ff4444&style=flat-square&base=1500" />
 </p>
 
 <p align="center">
