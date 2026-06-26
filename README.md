@@ -2,12 +2,8 @@
   <img src="https://media1.tenor.com/m/eG2eoXI8r8wAAAAd/girl-cop.gif" width="60%" alt="gif" />
 </p>
 
-<h1 align="center">Dhruv Diwakirti</h1>
+<h1 align="center">Dhruv Diwakirti🐙</h1>
 <h3 align="center">Welcome my friend or scrapper</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruv-kys&label=Profile%20visits&color=ff4444&style=flat-square&base=1500" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruvdiwa/">LinkedIn</a>
@@ -15,6 +11,9 @@
   <a href="mailto:loltreat1@gmail.com">Email</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Dhruv-kys">GitHub</a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhruv-kys&label=Profile%20visits&color=ff4444&style=flat-square&base=1500"/>
 </p>
 
 ## About me
