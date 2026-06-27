@@ -12,6 +12,7 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/Dhruv-kys">GitHub</a>
 </p>
+
 ## About me
 
 **SDE Intern @ _Amatyaa_** · ex AI Developer Intern @ _Cubical Frames_
