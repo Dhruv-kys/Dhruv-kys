@@ -12,21 +12,17 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/Dhruv-kys">GitHub</a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruv-kys&label=Profile%20visits&color=ff4444&style=flat-square&base=1500"/>
-</p>
-
 ## About me
 
-**SDE Intern @ Amatyaa** · ex AI Developer Intern @ Cubical Frames
+**SDE Intern @ _Amatyaa_** · ex AI Developer Intern @ _Cubical Frames_
 
-Plumbing my way through Backend + AI/ML.
+Plumbing my way through _Backend_ + AI/ML.
 
 ## What I've built
 
 - **Voice AI:** transcription, diarization, real-time interview system
 - **Agentic AI:** agent tools and workflows
-- **Production RAG:** semantic search, BM25, rerankers, evals
+- **Production RAG:** semantic search, BM25, rerankers, context-retrievals , evals
 - **MCP servers:** built and integrated them for agent workflows
 - **Fine-tuning:** Whisper large-v3 and BERT-based models
 
