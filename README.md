@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/eG2eoXI8r8wAAAAd/girl-cop.gif" width="60%" alt="gif" />
+  <img src="header.gif" width="60%" alt="gif" />
 </p>
 
 <h1 align="center">Dhruv Diwakirti🐙</h1>
