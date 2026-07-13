@@ -2,8 +2,8 @@
   <img src="header.gif" width="60%" alt="gif" />
 </p>
 
-<h1 align="center">Dhruv Diwakirti🐙</h1>
-<h3 align="center">Welcome my friend or scrapper</h3>
+<h1 align="center">Dhruv Diwakirti 🐙</h1>
+<h3 align="center">Welcome, my friend or scrapper</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruvdiwa/">LinkedIn</a>
@@ -23,8 +23,8 @@ Plumbing my way through _Backend_ + AI/ML.
 
 - **Voice AI:** transcription, diarization, real-time interview system
 - **Agentic AI:** agent tools and workflows
-- **Production RAG:** semantic search, BM25, rerankers, context-retrievals , evals
-- **MCP servers:** built and integrated them for agent workflows
+- **Production RAG:** semantic search, BM25, rerankers, context retrieval, evals
+- **MCP servers:** built and integrated for agent workflows
 - **Fine-tuning:** Whisper large-v3 and BERT-based models
 
 ## Currently
