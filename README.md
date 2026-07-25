@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/dhruvdiwa/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:loltreat1@gmail.com">Email</a>
-  &nbsp;·&nbsp;
+  &nbsp;
 </p>
 
 ## About me
@@ -25,6 +25,7 @@ Plumbing my way through _Backend_ + AI/ML.
 - **Production RAG:** semantic search, BM25, rerankers, context retrieval, evals
 - **MCP servers:** built and integrated for agent workflows
 - **Fine-tuning:** Whisper large-v3 and BERT-based models
+- **Backend systems** Scalabale systems, APIs, Cloud and database architecture
 
 ## Currently
 
