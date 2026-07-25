@@ -3,14 +3,13 @@
 </p>
 
 <h1 align="center">Dhruv Diwakirti 🐙</h1>
-<h3 align="center">Welcome, my friend or scrapper</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruvdiwa/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:loltreat1@gmail.com">Email</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Dhruv-kys">GitHub</a>
 </p>
 
 ## About me
