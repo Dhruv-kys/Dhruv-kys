@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.gif" width="60%" alt="gif" />
+  <img src="header.gif" width="35%" alt="gif" />
 </p>
 
 <h1 align="center">Dhruv Diwakirti 🐙</h1>
