@@ -12,7 +12,7 @@
 
 **SDE Intern @ _Amatyaa_** · ex AI Developer Intern @ _Cubical Frames_
 
-Plumbing my way through _Backend_ + AI/ML.
+Plumbing my way through _Backend_ + AI/ML.🚢
 
 ## What I've built
 
