@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="header.gif" width="55%" alt="gif" />
-</p>
-
-<h1 align="center">Dhruv Diwakirti 🐙</h1>
+<h1 align="center">Dhruv Diwakirti ❤️‍🔥</h1>
 
 
 <p align="center">
@@ -31,8 +27,7 @@ Plumbing my way through _Backend_ + AI/ML.
 
 - **[marimo](https://github.com/marimo-team/marimo)** (22k★) — [#10354](https://github.com/marimo-team/marimo/pull/10354):
   fixed horizontal scrolling when navigating to an off-screen column in columns mode. *Merged.*
-- **[pipecat](https://github.com/pipecat-ai/pipecat)** — [#5141](https://github.com/pipecat-ai/pipecat/pull/5141):
-  surface in-stream Responses API errors as `ErrorFrame`s over HTTP. *Open.*
+- **[apache/airflow](https://github.com/apache/airflow)** (43k★) — [#70797](https://github.com/apache/airflow/pull/70797): restored `/auth` prefix for FAB Security page links. *Open.*
 - **[WhisperLive](https://github.com/collabora/WhisperLive)** — [#531](https://github.com/collabora/WhisperLive/pull/531):
   honor `display_segments` when printing transcripts. *Open.*
 
