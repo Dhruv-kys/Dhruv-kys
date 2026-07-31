@@ -27,9 +27,15 @@ Plumbing my way through _Backend_ + AI/ML.🚢
 
 - **[marimo](https://github.com/marimo-team/marimo)** (22k★) — [#10354](https://github.com/marimo-team/marimo/pull/10354):
   fixed horizontal scrolling when navigating to an off-screen column in columns mode. *Merged.*
+
 - **[WhisperLive](https://github.com/collabora/WhisperLive)** (4.2k★) — [#531](https://github.com/collabora/WhisperLive/pull/531):
-  honor `display_segments` when printing transcripts. *Merged.*
-- **[apache/airflow](https://github.com/apache/airflow)** (43k★) — [#70797](https://github.com/apache/airflow/pull/70797): restored `/auth` prefix for FAB Security page links. *Open.*
+  honored `display_segments` when printing transcripts. *Merged.*
+
+- **[apache/airflow](https://github.com/apache/airflow)** (43k★) — [#70797](https://github.com/apache/airflow/pull/70797):
+  restored `/auth` prefix for FAB Security page links behind subpath proxies. *Open.*
+
+- **[supermemory](https://github.com/supermemoryai/supermemory)** (28.7k★) — [#1386](https://github.com/supermemoryai/supermemory/pull/1386):
+  fixed inverted `NEXT_PUBLIC_GOOGLE_AUTH_ENABLED` / `NEXT_PUBLIC_GITHUB_AUTH_ENABLED` flags so OAuth providers are enabled when set to `true`. *Open.*
 
 
 
