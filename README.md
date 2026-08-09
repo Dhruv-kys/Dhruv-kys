@@ -1,11 +1,9 @@
 <h1 align="center">Dhruv Diwakirti ❤️‍🔥</h1>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruvdiwa/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:loltreat1@gmail.com">Email</a>
-  &nbsp;
 </p>
 
 ## About me
@@ -21,7 +19,7 @@ Plumbing my way through _Backend_ + AI/ML.🚢
 - **Production RAG:** semantic search, BM25, rerankers, context retrieval, evals
 - **MCP servers:** built and integrated for agent workflows
 - **Fine-tuning:** Whisper large-v3 and BERT-based models
-- **Backend systems** Scalable systems, APIs, Cloud and database architecture
+- **Backend systems:** scalable systems, APIs, cloud and database architecture
 
 ## Open source
 
@@ -37,10 +35,8 @@ Plumbing my way through _Backend_ + AI/ML.🚢
 - **[apache/airflow](https://github.com/apache/airflow)** (46k★) — [#70797](https://github.com/apache/airflow/pull/70797):
   restored `/auth` prefix for FAB Security page links behind subpath proxies. *Open.*
 
-- **[supermemory](https://github.com/supermemoryai/supermemory)** (28.7k★) — [#1386](https://github.com/supermemoryai/supermemory/pull/1386):
+- **[supermemory](https://github.com/supermemoryai/supermemory)** (28.8k★) — [#1386](https://github.com/supermemoryai/supermemory/pull/1386):
   fixed inverted `NEXT_PUBLIC_GOOGLE_AUTH_ENABLED` / `NEXT_PUBLIC_GITHUB_AUTH_ENABLED` flags so OAuth providers are enabled when set to `true`. *Open.*
-
-
 
 ## Currently
 
