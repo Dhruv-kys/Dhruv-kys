@@ -23,6 +23,9 @@ Plumbing my way through _Backend_ + AI/ML.🚢
 
 ## Open source
 
+- **[ragflow](https://github.com/infiniflow/ragflow)** (88k★) — [#18012](https://github.com/infiniflow/ragflow/pull/18012):
+  kept short OCR text when no image2text model is configured — the extracted text was being discarded, so those images indexed to zero chunks. *Merged.*
+
 - **[marimo](https://github.com/marimo-team/marimo)** (22k★) — [#10354](https://github.com/marimo-team/marimo/pull/10354):
   fixed horizontal scrolling when navigating to an off-screen column in columns mode. *Merged.*
 
@@ -34,9 +37,6 @@ Plumbing my way through _Backend_ + AI/ML.🚢
 
 - **[WhisperLive](https://github.com/collabora/WhisperLive)** (4.2k★) — [#531](https://github.com/collabora/WhisperLive/pull/531):
   honored `display_segments` when printing transcripts. *Merged.*
-
-- **[ragflow](https://github.com/infiniflow/ragflow)** (87k★) — [#18012](https://github.com/infiniflow/ragflow/pull/18012):
-  kept short OCR text when no image2text model is configured — the extracted text was being discarded, so those images indexed to zero chunks. *Open.*
 
 - **[apache/airflow](https://github.com/apache/airflow)** (46k★) — [#70797](https://github.com/apache/airflow/pull/70797):
   restored `/auth` prefix for FAB Security page links behind subpath proxies. *Open.*
