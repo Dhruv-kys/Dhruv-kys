@@ -26,6 +26,9 @@ Plumbing my way through _Backend_ + AI/ML.🚢
 - **[ragflow](https://github.com/infiniflow/ragflow)** (88k★) — [#18012](https://github.com/infiniflow/ragflow/pull/18012):
   kept short OCR text when no image2text model is configured — the extracted text was being discarded, so those images indexed to zero chunks. *Merged.*
 
+- **[LightRAG](https://github.com/HKUDS/LightRAG)** (39k★) — [#3652](https://github.com/HKUDS/LightRAG/pull/3652):
+  ranked each BFS level by degree before the `max_nodes` cutoff, so a truncated graph view no longer depended on document ingestion order. *Merged.*
+
 - **[marimo](https://github.com/marimo-team/marimo)** (22k★) — [#10354](https://github.com/marimo-team/marimo/pull/10354):
   fixed horizontal scrolling when navigating to an off-screen column in columns mode. *Merged.*
 
