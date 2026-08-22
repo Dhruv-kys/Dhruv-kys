@@ -41,11 +41,6 @@ Plumbing my way through _Backend_ + AI/ML.🚢
 - **[WhisperLive](https://github.com/collabora/WhisperLive)** (4.2k★) — [#531](https://github.com/collabora/WhisperLive/pull/531):
   honored `display_segments` when printing transcripts. *Merged.*
 
-- **[apache/airflow](https://github.com/apache/airflow)** (46k★) — [#70797](https://github.com/apache/airflow/pull/70797):
-  restored `/auth` prefix for FAB Security page links behind subpath proxies. *Open.*
-
-- **[supermemory](https://github.com/supermemoryai/supermemory)** (28.8k★) — [#1386](https://github.com/supermemoryai/supermemory/pull/1386):
-  fixed inverted `NEXT_PUBLIC_GOOGLE_AUTH_ENABLED` / `NEXT_PUBLIC_GITHUB_AUTH_ENABLED` flags so OAuth providers are enabled when set to `true`. *Open.*
 
 ## Currently
 
