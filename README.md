@@ -23,7 +23,7 @@ Plumbing My Way Around AI-Native Systems.🚢
 
 ## Open source
 
-- **[ragflow](https://github.com/infiniflow/ragflow)** (88k★) — [#18012](https://github.com/infiniflow/ragflow/pull/18012):
+- **[ragflow](https://github.com/infiniflow/ragflow)** (90k★) — [#18012](https://github.com/infiniflow/ragflow/pull/18012):
   kept short OCR text when no image2text model is configured — the extracted text was being discarded, so those images indexed to zero chunks. *Merged.*
 
 - **[LightRAG](https://github.com/HKUDS/LightRAG)** (39k★) — [#3652](https://github.com/HKUDS/LightRAG/pull/3652):
