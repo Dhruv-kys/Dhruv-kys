@@ -8,9 +8,9 @@
 
 ## About me
 
-**SDE Intern @ _Amatyaa_** · ex AI Developer Intern @ _Cubical Frames_
+_**AI Intern @ATLYS**_ 
 
-Plumbing my way through _Backend_ + AI/ML.🚢
+Plumbing My Way Around AI-Native Systems.🚢
 
 ## What I've built
 
