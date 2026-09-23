@@ -8,7 +8,7 @@
 
 ## About me
 
-_**AI Intern @ATLYS**_ 
+_**AI Intern @ATLYS ✈︎**_ 
 
 Plumbing My Way Around AI-Native Systems.🚢
 
