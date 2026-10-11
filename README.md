@@ -12,7 +12,7 @@ _**AI Intern @ATLYS ✈︎**_
 
 Plumbing My Way Around AI-Native Systems.🚢
 
-## Full House
+
 
 <p align="center">
   <img src="./assets/fun.svg" width="100%" alt="A terminal runs a fake diffusion model that denoises a halftone print of a figure in a dark coat, hair blown back, against a blue sky" />
